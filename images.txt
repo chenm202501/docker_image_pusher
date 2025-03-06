@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+xprobe/xinference:v1.2.2
