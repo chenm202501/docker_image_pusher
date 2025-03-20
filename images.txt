@@ -1,1 +1,1 @@
---platform=linux/arm64/v8 langgenius/dify-plugin-daemon:0.0.5-local
+--platform=linux/arm64/v8 langgenius/dify-api:1.1.0
