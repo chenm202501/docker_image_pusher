@@ -1,1 +1,1 @@
---plat-form=linux_aarch64 postgres:15-alpine
+--platform=linux_aarch64 postgres:15-alpine
