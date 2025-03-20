@@ -1,1 +1,1 @@
-ghcr.io/labring/aiproxy:latest
+--plat-form=linux_aarch64 postgres:15-alpine
