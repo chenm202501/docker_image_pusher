@@ -1,1 +1,1 @@
-node:18-alpine
+langgenius/dify-api:1.1.3
