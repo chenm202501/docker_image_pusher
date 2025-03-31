@@ -1,1 +1,1 @@
-supercorp/supergateway
+node:20-alpine
