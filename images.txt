@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.7-local
+nvcr.io/nvidia/pytorch:24.12-py3
