@@ -1,1 +1,1 @@
-grafana/grafana-oss:11.5.0
+quay.io/prometheus/node-exporter:latest
