@@ -1,1 +1,1 @@
---platform linux/arm64 quay.io/ascend/vllm-ascend:v0.8.4rc1
+--platform linux/arm64 mariadb:11.4.5
