@@ -1,1 +1,1 @@
---platform linux/arm64 mariadb:10.8.2
+gpustack/gpustack
