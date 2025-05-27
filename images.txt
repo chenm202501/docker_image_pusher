@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.8.5.post1
+cassandra:5.0.4
