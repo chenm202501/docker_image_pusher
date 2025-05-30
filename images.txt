@@ -1,1 +1,1 @@
-cassandra:5.0.4
+redis/redis-stack:7.2.0-v17
