@@ -1,1 +1,1 @@
-sonatype/nexus3:3.80.0
+nvidia/cuda:12.4.1-cudnn-runtime-ubuntu22.04
