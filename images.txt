@@ -1,1 +1,1 @@
-gpustack/gpustack
+milvusdb/milvus:v2.5.13
