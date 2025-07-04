@@ -1,1 +1,1 @@
-zilliz/attu:v2.5
+syq163/emoti-voice
