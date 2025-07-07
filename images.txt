@@ -1,1 +1,1 @@
-syq163/emoti-voice
+qwenllm/qwen-omni
