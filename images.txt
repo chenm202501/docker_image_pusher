@@ -1,1 +1,1 @@
-jbarlow83/ocrmypdf-alpine --platform=linux_arm_v8
+jbarlow83/ocrmypdf-alpine --platform=linux/arm64
