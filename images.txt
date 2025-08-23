@@ -1,1 +1,1 @@
-jbarlow83/ocrmypdf-alpine:v16.10.4
+gpustack/gpustack:0.7.1
