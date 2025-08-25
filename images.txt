@@ -1,1 +1,1 @@
---platform linux/arm64/v8 mysql:8.0.43
+--platform linux/arm64/v8 milvusdb/milvus:v2.5.17
