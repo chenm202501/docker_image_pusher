@@ -1,1 +1,1 @@
---platform linux/arm64/v8 milvusdb/milvus:v2.5.17
+--platform linux/arm64/v5 redis:8.2.1
