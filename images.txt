@@ -1,1 +1,1 @@
---platform linux/arm64/v5 redis:8.2.1
+--platform linux/arm/v5 redis:8.2.1
