@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.10.2
+milvusdb/milvus:v2.6.1-20250830-4376876f-arm64
