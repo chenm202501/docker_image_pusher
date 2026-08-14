@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:alpine
+maven:3.9.16-amazoncorretto-8-debian-trixie
