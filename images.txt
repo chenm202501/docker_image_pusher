@@ -1,1 +1,2 @@
-maven:3.9.16-amazoncorretto-8-debian-trixie
+maven:3.9.16-amazoncorretto-21-debian
+
