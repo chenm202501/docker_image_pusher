@@ -1,1 +1,1 @@
-alpine:latest
+amazon/aws-cli:latest
